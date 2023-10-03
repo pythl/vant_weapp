@@ -10,5 +10,6 @@ npm i @vant/weapp -S --production
 ```
 
 ## 构建npm
-
+新建文件夹miniprogram
 微信开发者工具=>工具=>构建npm
+把miniprogram_npm 移出到miniprogram外面即可
